@@ -8,4 +8,5 @@ edit from github interface
 more lines
 ooXYZps
 snow is cold
+fire is hot
 glass is brittle
