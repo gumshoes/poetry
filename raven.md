@@ -6,4 +6,5 @@ More bla.
 boooring
 edit from github interface
 more lines
-oops
+ooXYZps
+post conflict line
