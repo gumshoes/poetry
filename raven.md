@@ -10,3 +10,5 @@ ooXYZps
 snow is cold
 fire is hot
 glass is brittle
+
+Some other stanza.
