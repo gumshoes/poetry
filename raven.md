@@ -12,3 +12,6 @@ fire is hot
 glass is brittle
 
 Some other stanza.
+When will this get interesting????
+
+OMG dogmatic retardation.
